@@ -1,7 +1,8 @@
 # UAS Analisis Data – Prediksi Putus Sekolah di Indonesia
 
 ## 📌 Informasi Proyek
-- **Nama**: Sawturng  
+- **Nama**: Anggia Dhini Hanifa
+- **NIM**: 2401489 
 - **Mata Kuliah**: Analisis Data  
 - **Jenis Tugas**: Ujian Akhir Semester (UAS)  
 - **Topik**: Analisis dan Prediksi Putus Sekolah  
